@@ -1,7 +1,7 @@
 # Required Libraries and Tools for Running the Script on Windows
 
 1. Python:
-   - Install Python from https://www.python.org/downloads/
+   - Install Python from => https://www.python.org/downloads/
    - Ensure "Add Python to PATH" is checked during installation.
 
 2. yt-dlp:
@@ -11,7 +11,7 @@
      ```
 
 3. ffmpeg (Optional for MP3 conversion):
-   - Download ffmpeg from https://ffmpeg.org/download.html
+   - Download ffmpeg from https://ffmpeg.org/download.html  =>   https://www.gyan.dev/ffmpeg/builds/
    - Extract the ZIP file and add the `bin` directory to the system PATH.
    - Verify installation by running:
      ```
